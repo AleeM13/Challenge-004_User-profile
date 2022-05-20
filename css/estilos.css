@@ -4,6 +4,7 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     background: linear-gradient(120deg, #EADEFA, #FFEDD2 50%, #F7F1FB);
     background-repeat: no-repeat;
+    height: 100vh;
 }
 
 .container {
