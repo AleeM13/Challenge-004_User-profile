@@ -117,11 +117,15 @@ img:hover {
 }
 
 @media (min-width: 320px) and (max-width: 600px) {
+    
+    body {
+        height: 100%;
+    }
 
     .container {
         width: 310px;
         height: 530px;
-        margin: 50px auto;
+        margin: 200px auto;
     }
     
     .img {
